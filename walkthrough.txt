@@ -1,0 +1,530 @@
+Welcome Adventurer to
+Steal 10 Treasures to Win This Game
+a game by spaceflounder
+Type ? and Enter key if playing for first time!
+In the Forest
+At the edge of the woods under bright moonlight stands a vast crumbling castle. A winding path meanders ahead to the front door. Near the path is a large friendly sign.
+> read sign
+(r key)
+Adventurers Beware! This castle is protected by a copious cornucopia of ingenious traps and terrible monsters. Proceed at your own risk!
+> follow path
+(up key)
+At the Front Door
+A dark oak slab of door hangs on wide iron hinges. Perched high above on the wall is a gargoyle, making a goofy smirk.
+Next to the door is a cheery little doorbell.
+> I want to ring the doorbell
+(p key)
+A merry chime rings from inside the castle.
+Moments later, a staticky speaker comes to life inside the gargoyle above your head:
+“Greetings adventurer! No doubt you've come to plunder this dangerous castle for treasure. To make you feel welcome, enjoy this very safe (and not poisoned) ice cream cone.”
+A small hatch opens near the door, and a stone hand emerges holding a delicious ice cream cone.
+Press l to lick, s to sniff, or p to push the ice cream cone away.
+> refuse the ice cream cone
+(p key)
+“Hey!” crackles the gargoyle speaker. “Why would anyone refuse free ice cream? It's irresistible!”
+The speaker emits a loud, disgusting slurp. “Delicious! Hey, let me get that door for you.”
+Seconds later the door swings open.
+Your score 🏆 has gone up 3 points.
+> enter door
+(up key)
+Entry Hall
+A formerly grand entry hall stands before you, lined by cracked marble pillars and with passageways in all directions.
+> enter throne room
+(left key)
+Throne Room
+Once, this was a magnificent throne room, but has been long abandoned.
+An incredibly valuable golden throne is here! It isn't nailed down so it must be yours for the taking!
+> take throne
+(period key)
+Your lumbar complains about you stealing the ridiculously heavy throne!
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the throne with considerable effort. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> exit throne room
+(up key)
+Art Gallery
+Before being picked over by vandals, this was a beautiful art gallery. Sadly, there is no chance for you to be a vandal; all the paintings have been stolen.
+Set into the wall is a platinum jeweled screw, on which likely hung a priceless work of art.
+> exit art gallery
+(right key)
+Smelly Room
+It's unclear as to why, but this room smells AWFUL. A dark stair descends into the dungeon.
+> enter long hallway
+(right key)
+A wicked pirate confronts you as you enter! “You overcame the poison ice cream earlier tonight,” he chortles. “Can you resist the poison popsicle?
+Press y to accept the poisonous popsicle, and n to refuse.
+> no to the poisonous popsicle
+(n key)
+“No?” says the pirate, shocked. “As in, NO, you can't resist? Well, here it is!”
+He whips out a used popsicle stick and bellows with laughter. “Why, I'm an old sea calf!” he cries. “I already ate the blasted thing!”
+He then wanders off into the castle.
+Long Hallway (narrow end)
+You're in a long corridor, which narrows to an exit on the left.
+A large red door is here, beckoning you to come in.
+> enter the door
+(up key)
+You enter the door and climb the stairs beyond.
+Owl Cage Room
+You are at the top of a tall tower. On the wall is a long lever, controlling a heavy shutter mechanism over a window. The window is shut. A lonely stair descends back down to the hallway.
+Locked in a heavy iron cage is a very sad-looking owl. He gives you a plaintive 'hoot' as you enter.
+> pull the window lever
+(y key)
+CRANK! The window shutter opens permitting a cool gentle breeze.
+> descend stairs
+(down key)
+Long Hallway (narrow end)
+You're in a long corridor, which narrows to an exit on the left.
+A large red door is here, beckoning you to come in.
+> walk hallway
+(right key)
+Long Hallway (middle part)
+You're in a long corridor, in the middle part.
+A large blue door is here, beckoning you to come in.
+> enter the door
+(up key)
+You enter the door and climb the stairs beyond.
+Priceless Map Room
+You are at the top of a tall tower. A lonely stair descends back down to the hallway.
+Hanging on the wall is a priceless antique map, valuable beyond compare!
+> take priceless map
+(period key)
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the priceless map of New Jersey. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> descend stairs
+(down key)
+Long Hallway (middle part)
+You're in a long corridor, in the middle part.
+A large blue door is here, beckoning you to come in.
+> walk hallway
+(right key)
+Long Hallway (far end)
+You're in a long corridor, on the far end. On the wall is a large impressive button.
+A large green door is here, beckoning you to come in.
+> go ahead and press the large impressive button
+(p key)
+The doors on the hallway behind you flip in the air like cherries on a slot machine. In a few seconds, they land flat on the wall, now in a shuffled order.
+> walk hallway
+(left key)
+Long Hallway (middle part)
+You're in a long corridor, in the middle part.
+A large green door is here, beckoning you to come in.
+> enter the door
+(up key)
+You enter the door and climb the stairs beyond.
+Cannon Room
+You are at the top of a tall tower. A lonely stair descends back down to the hallway.
+Fixed in place next to an open window is a large imposing cannon with a draw-string.
+> pull draw-string
+(y key)
+BOOM! 💥 The cannon thunders and a HUGE cannonball fires into the air!
+The cannonball sails through the window of the next tower over, followed by a loud thundering CRASH!
+Moments later an overjoyed owl flaps into the room. “Thank you, kind adventurer!” hoots the owl. “Because of you, I am free of that loathsome cage.” He drops a whistle into your open palm. “In this castle are many diabolical traps and puzzles. Should you encounter a riddle beyond your comprehension, blow this whistle and I will come assist. Farewell!”
+He flaps off into the night.
+You can now press w to blow the whistle.
+Your score 🏆 has gone up 3 points.
+> descend stairs
+(down key)
+Long Hallway (middle part)
+You're in a long corridor, in the middle part.
+A large green door is here, beckoning you to come in.
+> walk hallway
+(left key)
+Long Hallway (narrow end)
+You're in a long corridor, which narrows to an exit on the left.
+A large blue door is here, beckoning you to come in.
+> walk hallway
+(left key)
+Smelly Room
+It's unclear as to why, but this room smells AWFUL. A dark stair descends into the dungeon.
+> descend dark stairs
+(down key)
+Dungeon
+You are in the dungeon. The castle walls round off into a bleak damp cave. The air is thick and wet.
+You are being attacked by a FEROCIOUS CLAM!
+> descend deeper into the dungeon
+(down key)
+You dodge the attack of the fearsome clam and run down the stairs, narrowly escaping with your life!
+Dragon Cave
+In the shadows is a narrow opening lit by a hot orange glow. Above the opening is very ominous-looking sign in gothic lettering.
+Set on the cavern floor is a somewhat charred pepper grinder.
+> take the pepper grinder
+(period key)
+You grab the pepper grinder off the floor.
+Your score 🏆 has gone up 3 points.
+A very helpful-looking crab scuttles up next to your keyboard. “Hey!” says the crab, “You can now press g to grind clouds of pepper into the air!”
+> enter the roost
+(down key)
+Dragon Roost
+A vast underground cavern is lit by the gentle orange breath of a massive dragon, big as a football field. She seems mostly uninterested in you. A long chain descends from the chamber above.
+Sparkling in the smoke is a magnificent gold dragon egg!
+> take gold egg
+(period key)
+It occurs to you as you pick it up that its not precisely shaped like an egg.
+Taken.
+“Oh, thanks for cleaning my litter box,” says the dragon. “That's what I get for eating an entire Arby's for lunch.”
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the gold “egg.” “Good job!” he says with revulsion a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> climb up the chain
+(c key)
+Drafty Room
+The air blows swiftly here to a wide opening in the floor. A long chain descends into the hole to a dark smoky chamber below. A narrow window overlooks a charming rose garden far below the castle wall.
+Posted above the hole is a very serious-looking sign.
+> enter the maze entrance
+(right key)
+Maze Entrance
+Just ahead is the entrance to a maze of twisty little passages, all alike.
+Posted on the wall is a map to the maze. This game is almost too easy!
+> rotate maze map
+(t key)
+You turn the maze map 180 degrees. It looks much better now!
+> enter fiendish maze
+(up key)
+Maze End
+You stand at the end of the maze of twisty passages. Be proud of yourself—not many have seen this room.
+Lying on a pedestal is an ordinary T-shirt, made of solid gold. I guess it's not ordinary after all.
+> take golden shirt
+(period key)
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the golden T-shirt. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> enter fiendish maze
+(down key)
+Maze Entrance
+Just ahead is the entrance to a maze of twisty little passages, all alike.
+Posted on the wall is a map to the maze. This game is almost too easy!
+> return to sculpture gallery
+(down key)
+Sculpture Gallery
+Several beautiful masterpieces of marble stand here, pointing at a blank space of wall. You can't help but feel that they're pointing at a door that isn't there. Opposite the blank wall is a doorway leading into a bottomless pit.
+> leave gallery
+(down key)
+Griffin Room
+This is a foul, tight little space, as though some very unhygienic animal has made it's home in here.
+An enormous griffin rests here, with an annoying smirk on his face. He regards you with a nod and says: “Adventurer, answer my riddle. If a tree falls in the forest, what time will the 3 o' clock train to Chattanooga arrive?”
+> leave the griffin room
+(left key)
+Entry Hall
+A formerly grand entry hall stands before you, lined by cracked marble pillars and with passageways in all directions.
+> enter maze of deadly spikes
+(up key)
+Room of 10,000 Spikes
+Save for a treacherous walkway, this room is a maze of deadly needle-sharp spikes. Simply tripping in this room could kill you.
+Near the path is a large spike of pure diamond. It looks so sharp you might kill yourself just picking it up.
+> carefully take diamond spike
+(period key)
+You very carefully remove the diamond spike.
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the diamond spike. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> navigate maze of deadly spikes
+(up key)
+Hall of Mirrors
+You're in a room full of warpy mirrors, like in a funhouse.
+A scary-looking sign is affixed to the wall.
+> yell
+(b key)
+WAAAAAAAAAA!
+As you yell, the murderous barbershop quartet harmonizes with you! The mirrors, made of glass, ripple dangerously...
+SMASH! Shattered glass explodes from the walls and the invisible barbershop quartet flees for their lives!
+> enter the rose garden
+(up key)
+Rose Garden
+A thick bramble of roses hedges up against the castle wall, which looms dark in the thin moonlight. On the wall is a valve next to a large exhaust pipe, which is shut.
+An exquisite rose made of solid ruby sits in the bramble.
+> turn valve
+(t key)
+The valve opens and the smell of smoke fills the air.
+> enter shed
+(left key)
+Tool Shed
+You are in a dank, musty tool shed.
+A Phillips head screwdriver lies here at your feet.
+> take Phillips head screwdriver
+(period key)
+You grab the Phillips head screwdriver, and while doing so, you slip and STAB yourself with it! As the darkness closes in, you notice the writing on the sign seems to have changed.
+You have picked up a semi-sharp object and died
+Don't worry, that wasn't the worst game I've ever seen. Maybe the second worst.
+So far, you've collected 5 treasures. You've scored 34 out of 65, earning you the rank of semi-competent castle-crawler.
+Would you like to try again?
+Press y to try again or n to quit.
+> yes
+(y key)
+Okay... I'll do my best... Here goes nothing...
+Tool Shed
+You are in a dank, musty tool shed.
+A Phillips head screwdriver lies here at your feet.
+> take Phillips head screwdriver
+(period key)
+You grab the Phillips head screwdriver, and while doing so, you slip and STAB yourself with it! As the darkness closes in, you notice the writing on the sign seems to have changed.
+You have picked up a semi-sharp object and died
+Well, that was rich.
+So far, you've collected 5 treasures. You've scored 34 out of 65, earning you the rank of semi-competent castle-crawler.
+Would you like to try again?
+Press y to try again or n to quit.
+> yes
+(y key)
+Okay... I'll do my best... Here goes nothing...
+Tool Shed
+You are in a dank, musty tool shed.
+A Phillips head screwdriver lies here at your feet.
+> take Phillips head screwdriver
+(period key)
+You grab the Phillips head screwdriver, and while doing so, you slip and STAB yourself with it! As the darkness closes in, you notice the writing on the sign seems to have changed.
+You have picked up a semi-sharp object and died
+Not bad. Not good, but, well...
+So far, you've collected 5 treasures. You've scored 34 out of 65, earning you the rank of semi-competent castle-crawler.
+Would you like to try again?
+Press y to try again or n to quit.
+> yes
+(y key)
+Okay... I'll do my best... Here goes nothing...
+Tool Shed
+You are in a dank, musty tool shed.
+A Phillips head screwdriver lies here at your feet.
+> take Phillips head screwdriver
+(period key)
+You take the Phillips head screwdriver.
+Your score 🏆 has gone up 3 points.
+> exit shed
+(right key)
+Rose Garden
+A thick bramble of roses hedges up against the castle wall, which looms dark in the thin moonlight. On the wall is a valve next to a large exhaust pipe, which is open.
+An exquisite rose made of solid ruby sits in the bramble.
+> follow path
+(down key)
+Hall of (Smashed) Mirrors
+You're in a room full of broken shards and dangerous, cut glass.
+> enter the room of 10000 spikes
+(down key)
+Room of 10,000 Spikes
+Save for a treacherous walkway, this room is a maze of deadly needle-sharp spikes. Simply tripping in this room could kill you.
+> navigate maze of deadly spikes
+(down key)
+Entry Hall
+A formerly grand entry hall stands before you, lined by cracked marble pillars and with passageways in all directions.
+> enter throne room
+(left key)
+Throne Room
+Once, this was a magnificent throne room, but has been long abandoned.
+> exit throne room
+(up key)
+Art Gallery
+Before being picked over by vandals, this was a beautiful art gallery. Sadly, there is no chance for you to be a vandal; all the paintings have been stolen.
+Set into the wall is a platinum jeweled screw, on which likely hung a priceless work of art.
+> remove jeweled screw from wall
+(period key)
+The screwdriver easily gets the platinum jeweled screw out of the wall, though the screwdriver itself breaks in the process. You discard the broken tool.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the platinum jeweled screw. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> exit art gallery
+(right key)
+Smelly Room
+It's unclear as to why, but this room smells AWFUL. A dark stair descends into the dungeon.
+> descend dark stairs
+(down key)
+Dungeon
+You are in the dungeon. The castle walls round off into a bleak damp cave. The air is thick and wet.
+You are being attacked by a FEROCIOUS CLAM!
+> descend deeper into the dungeon
+(down key)
+You dodge the attack of the fearsome clam and run down the stairs, narrowly escaping with your life!
+Dragon Cave
+In the shadows is a narrow opening lit by a hot orange glow. Above the opening is very ominous-looking sign in gothic lettering.
+> enter the roost
+(down key)
+Dragon Roost
+A vast underground cavern is lit by the gentle orange breath of a massive dragon, big as a football field. She seems mostly uninterested in you. A long chain descends from the chamber above.
+> climb up the chain
+(c key)
+Drafty Room
+The air blows swiftly here to a wide opening in the floor. A long chain descends into the hole to a dark smoky chamber below. A narrow window overlooks a charming rose garden far below the castle wall.
+Posted above the hole is a very serious-looking sign.
+> grind pepper
+(g key)
+Great clouds of pepper drift on the air currents down into the opening in the floor.
+ACHOOO!
+A firey blast escapes the chamber below! Someone down there can't handle a little pepper in the air!
+Through the window, you can make out a bit of flame dancing in the rose garden. It would appear that your actions have managed to scorch a few bushes.
+Your score 🏆 has gone up 3 points.
+> enter scullery
+(left key)
+Scullery
+You're in a filthy old scullery. A narrow stair leads downwards to the dining hall.
+A festive sign is posted here. It reads: “Castle Chowder Festival — Down Stairs.” It appears to be a bit loose on the wall.
+> remove the festive sign from the wall and take it
+(period key)
+Taken.
+It sounds like they're packing up that festival downstairs to go somewhere else.
+> go through the narrow door
+(right key)
+Drafty Room
+The air blows swiftly here to a wide opening in the floor. A long chain descends into the hole to a dark smoky chamber below. A narrow window overlooks a charming rose garden far below the castle wall.
+Posted above the hole is a very serious-looking sign.
+You're carrying a festive sign.
+> walk into wall
+(down key)
+Your nose is slightly bent following the attempt.
+> climb down chain
+(c key)
+Dragon Roost
+A vast underground cavern is lit by the gentle orange breath of a massive dragon, big as a football field. She seems mostly uninterested in you. A long chain descends from the chamber above.
+You're carrying a festive sign.
+> exit the roost
+(up key)
+Dragon Cave
+In the shadows is a narrow opening lit by a hot orange glow. Above the opening is very ominous-looking sign in gothic lettering.
+You're carrying a festive sign.
+> leave the dragon pen
+(up key)
+Dungeon
+You are in the dungeon. The castle walls round off into a bleak damp cave. The air is thick and wet.
+You are being attacked by a FEROCIOUS CLAM!
+You're carrying a festive sign.
+> ascend stairs
+(up key)
+You dodge the attack of the fearsome clam and run up the stairs, narrowly escaping with your life!
+Smelly Room
+It's unclear as to why, but this room smells AWFUL. A dark stair descends into the dungeon.
+You're carrying a festive sign.
+> post the festive sign
+(period key)
+Dropped.
+A great and terrible roar echoes from down the stairs, as if a huge and murderous beast had been slaughtered by the participants of a chowder festival.
+> descend dark stairs
+(down key)
+Dungeon
+You are in the dungeon. The castle walls round off into a bleak damp cave. The air is thick and wet.
+A HUGE clam chowder festival is going on in here, and everybody is devouring chowder with gusto.
+Sitting unattended here is an perfect pearl, the kind made inside of giant killer clams.
+> take clam pearl
+(period key)
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the clam pearl. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> score
+($ key)
+So far, you've collected 7 treasures. You've scored 50 out of 65, earning you the rank of skilled treasure-hunter.
+> ascend stairs
+(up key)
+Smelly Room
+It's unclear as to why, but this room smells AWFUL. A dark stair descends into the dungeon.
+A festive sign is posted here. It reads: “Castle Chowder Festival — Down Stairs.” It appears to be a bit loose on the wall.
+> enter the art gallery
+(left key)
+Art Gallery
+Before being picked over by vandals, this was a beautiful art gallery. Sadly, there is no chance for you to be a vandal; all the paintings have been stolen.
+> exit art gallery
+(down key)
+Throne Room
+Once, this was a magnificent throne room, but has been long abandoned.
+> exit throne room
+(right key)
+Entry Hall
+A formerly grand entry hall stands before you, lined by cracked marble pillars and with passageways in all directions.
+> enter the griffin room
+(right key)
+Griffin Room
+This is a foul, tight little space, as though some very unhygienic animal has made it's home in here.
+An enormous griffin rests here, with an annoying smirk on his face. He regards you with a nod and says: “Adventurer, answer my riddle. If a tree falls in the forest, what time will the 3 o' clock train to Chattanooga arrive?”
+> blow whistle
+(w key)
+“What an annoying sound,” said the griffin with a sneer.
+Moments later an owl descends near the griffin. “What a challenging riddle!” hoots the owl. “Of course, the answer depends on the hypotenuse of x.”
+The griffin flushes red with rage. “What do you know of riddles?”
+“Quite a lot, I should say,” said the owl. “Do you know my friend, the sphinx?”
+The two begin a heated discussion about lateral thinking and wander off into the depths of the castle.
+You can't help but notice the griffin appears to have left something behind.
+> take rare griffin feather
+(period key)
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the rare griffin. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> leave the griffin room
+(left key)
+Entry Hall
+A formerly grand entry hall stands before you, lined by cracked marble pillars and with passageways in all directions.
+> enter maze of deadly spikes
+(up key)
+Room of 10,000 Spikes
+Save for a treacherous walkway, this room is a maze of deadly needle-sharp spikes. Simply tripping in this room could kill you.
+> navigate maze of deadly spikes
+(up key)
+Hall of (Smashed) Mirrors
+You're in a room full of broken shards and dangerous, cut glass.
+> enter the rose garden
+(up key)
+Rose Garden
+A thick bramble of roses hedges up against the castle wall, which looms dark in the thin moonlight. On the wall is a valve next to a large exhaust pipe, which is open.
+An exquisite rose made of solid ruby sits in a pile of ashes.
+> take exquisite ruby rose
+(period key)
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the exquisite ruby rose. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+> follow path
+(right key)
+Garden of Time
+Stepping stones form a little trail between a fierce bramble of roses. Rising above the thorns is a great bronze clock with a long gleaming lever on one side.
+> pull lever
+(y key)
+You give the lever a hard pull and the clock begins to work. Time unravels around you in a dancing cacophony of light and dark, color and black, noise and silence...
+The clock stops and you find yourself centuries in the past.
+Open Field
+The morning sun bathes this open field in early light. There is little here, save for a great bronze clock with a lever on the side.
+> walk up hill
+(up key)
+Top of Hill
+At the top of this sunny little hill is a wide oak table. It looks like someone has been here recently.
+On the table is a blueprint of the very castle you've been exploring.
+> turn blueprints
+(t key)
+You rotate the blueprints 180 degrees.
+Somehow, you can't shake the feeling that you've massively affected future events.
+> head down hill
+(down key)
+Open Field
+The morning sun bathes this open field in early light. There is little here, save for a great bronze clock with a lever on the side.
+> push lever
+(p key)
+You give the lever a hard push and the clock begins to work. Time unravels around you in a dancing cacophony of light and dark, color and black, noise and silence...
+The clock stops and you find yourself returned to your own time.
+Garden of Time
+Stepping stones form a little trail between a fierce bramble of roses. Rising above the thorns is a great bronze clock with a long gleaming lever on one side.
+> follow path
+(right key)
+Rose Garden
+A thick bramble of roses hedges up against the castle wall, which looms dark in the thin moonlight. On the wall is a valve next to a large exhaust pipe, which is open.
+> follow path
+(up key)
+Hall of (Smashed) Mirrors
+You're in a room full of broken shards and dangerous, cut glass.
+> enter the room of 10000 spikes
+(up key)
+Room of 10,000 Spikes
+Save for a treacherous walkway, this room is a maze of deadly needle-sharp spikes. Simply tripping in this room could kill you.
+> navigate maze of deadly spikes
+(up key)
+Entry Hall
+A formerly grand entry hall stands before you, lined by cracked marble pillars and with passageways in all directions.
+> enter the griffin room
+(left key)
+Griffin Room
+This is a foul, tight little space, as though some very unhygienic animal has made it's home in here.
+> enter sculpture gallery
+(down key)
+Sculpture Gallery
+Several beautiful masterpieces of marble stand here, pointing to a door on an otherwise blank wall.
+> enter door
+(left key)
+Secret Gallery
+Hidden away in this tiny dusty hole is a secret art gallery.
+Lying neglected here is a priceless platinum statue!
+> take platinum statue
+(period key)
+Taken.
+Your score 🏆 has gone up 5 points.
+A cheerful little teddy bear with an enormous satchel appears and grabs the platinum statue. “Good job!” he says with a smile. “I'll just drop this treasure into your safe deposit box for you.”
+“Well done!” cries another little teddy bear with a disproportionally huge mallet behind his back. “That's the last treasure! I've got your prize right here!”
+CRACK! The teddy bear whacks you over the head, and you awaken elsewhere...
+You've Won!
